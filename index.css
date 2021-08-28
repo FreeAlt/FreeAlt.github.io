@@ -1,5 +1,10 @@
 body {
   background-image: url("https://www.wallpapertip.com/wmimgs/68-685843_minecraft-background-pvp.jpg");
   background-size: cover;
-  font-family:"MS Pゴシック",sans-serif;
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+a {
+   margin: 0; padding: 0;
+   font-size: 30px;
+   
 }
